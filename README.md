@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/你的GitHub用户名/你的GitHub用户名/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/lixiao-yang/lixiao-yang/main/assets/github-contribution-grid-snake.svg)
 
 <!--
 **lixiao-yang/lixiao-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
